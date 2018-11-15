@@ -1,0 +1,14 @@
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/bin/Debug/netcoreapp2.1/SampleApi.deps.json
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/bin/Debug/netcoreapp2.1/SampleApi.runtimeconfig.json
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/bin/Debug/netcoreapp2.1/SampleApi.runtimeconfig.dev.json
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/bin/Debug/netcoreapp2.1/SampleApi.dll
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/bin/Debug/netcoreapp2.1/SampleApi.pdb
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.csprojAssemblyReference.cache
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.csproj.CoreCompileInputs.cache
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.RazorAssemblyInfo.cache
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.RazorAssemblyInfo.cs
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.AssemblyInfoInputs.cache
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.AssemblyInfo.cs
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.RazorTargetAssemblyInfo.cache
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.dll
+/Users/brunoalves/Documents/SampleApi/SampleApi/SampleApi/obj/Debug/netcoreapp2.1/SampleApi.pdb
