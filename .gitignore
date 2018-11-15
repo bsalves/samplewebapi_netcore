@@ -1,1 +1,3 @@
 SampleApi/obj/Debug/*
+SampleApi/bin/Debug/*
+SampleApi/obj/SampleApi.csproj.nuget.cache

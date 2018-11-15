@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{F84197AF-6E22-4BC9-99F4-79207505191D}|Default">
   <MonoDevelop.Ide.ItemProperties.SampleApi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApi/Controllers/BalanceController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApi/Controllers/UsersController.cs">
     <Files>
-      <File FileName="SampleApi/Controllers/BalanceController.cs" Line="26" Column="9" />
-      <File FileName="SampleApi/Models/DataModel.cs" Line="7" Column="41" />
+      <File FileName="SampleApi/Controllers/UsersController.cs" Line="46" Column="91" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
