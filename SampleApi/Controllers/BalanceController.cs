@@ -31,7 +31,7 @@ namespace SampleApi.Controllers
             return values[id];
         }
 
-        // POST api/values
+        // POST api/balance
         [HttpPost]
         public DataModel Post([FromBody]DataModel value)
         {
@@ -39,13 +39,13 @@ namespace SampleApi.Controllers
             return value;
         }
 
-        // PUT api/values/5
+        // PUT api/balance/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
         }
 
-        // DELETE api/values/5
+        // DELETE api/balance/5
         [HttpDelete("{id}")]
         public List<DataModel> Delete(int id)
         {
